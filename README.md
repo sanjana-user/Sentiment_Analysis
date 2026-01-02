@@ -1,4 +1,4 @@
-# Sentiment_Analysis
+# Sentiment Analysis
 
 # Problem Statement: 
 
@@ -18,7 +18,7 @@ This project analyzes how trader performance changes under different market emot
 
 a) start position - initial value present in the account before this trade. 
 
-b) directions, 
+b) directions:
 
 - Open: the trader enters a trade by buying.
 
@@ -26,7 +26,7 @@ b) directions,
 
 - Long: the trader expects prices to go up.
 
--Short: the trader expects prices to go down.
+- Short: the trader expects prices to go down.
 
 c) closed PnL: net profit after the trade.
 
